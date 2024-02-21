@@ -2,3 +2,4 @@ this is the sorting visualizer project to understand how to work sorting algorit
 
 
 live ckeck here...https://sahile-jhalak.github.io/Sorting-Visualizer/
+ 
